@@ -1,0 +1,8 @@
+id=magisk-efs-freezer
+name=Magisk EFS Freezer
+version=v1.0
+versionCode=1
+author=hdoublearp
+description=A Magisk Module designed to freeze EFS changes by OxygenOS11 on reboot to allow for end user modification of the EFS contents.
+support=https://github.com/thesoundofom/magisk-efs-freezer
+minMagisk=2000
