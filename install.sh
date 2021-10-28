@@ -51,7 +51,6 @@ LATESTARTSERVICE=false
 
 # Construct your own list here
 REPLACE="
-/system/vendor/bin/rmt_storage
 "
 
 ##########################################################################################
